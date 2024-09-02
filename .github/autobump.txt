@@ -746,6 +746,7 @@ sol
 sonarr
 soulver
 sound-control
+sourcegit
 sourcetree
 sourcetree@beta
 space-capsule
